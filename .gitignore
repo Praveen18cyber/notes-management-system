@@ -1,0 +1,16 @@
+# Build outputs
+node_modules/
+dist/
+target/
+build/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Env
+.env

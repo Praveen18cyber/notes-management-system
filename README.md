@@ -31,7 +31,6 @@ This project contains a scalable REST API backend built with Java (Spring Boot) 
    ```bash
    npm run dev
    ```
-4. Access the UI at `http://localhost:5173`.
 
 ## Features
 - **Authentication:** JWT-based user registration and login.
